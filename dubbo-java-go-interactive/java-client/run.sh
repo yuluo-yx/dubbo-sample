@@ -1,0 +1,1 @@
+mvn -e clean compile exec:java -Dexec.mainClass="indi.yuluo.dubbo.sample.basic.ApiConsumer"
